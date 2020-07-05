@@ -22,8 +22,8 @@ You will also see any lint errors in the console.
 Demonstrated by [redux-devtools-extention[(https://github.com/zalmoxisus/redux-devtools-extension)
 
 ###### Initial state of 2 reducers
-![image](https://github.com/ckyyyy/react-redux-example/tree/master/image/init_state)
+![image](https://github.com/ckyyyy/react-redux-example/tree/master/image/init_state.png)
 ###### Changes state by increment with payload (5)
-![image](https://github.com/ckyyyy/react-redux-example/tree/master/image/increment)
+![image](https://github.com/ckyyyy/react-redux-example/tree/master/image/increment.png)
 ###### Changes state by decrement with 1 click
-![image](https://github.com/ckyyyy/react-redux-example/tree/master/image/decrement)
+![image](https://github.com/ckyyyy/react-redux-example/tree/master/image/decrement.png)
