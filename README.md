@@ -1,16 +1,16 @@
 ## Creation Guide
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-### `npx create-react-app react-redux-example`
+#### `npx create-react-app react-redux-example`
 
 Add redux package for this project
-### `npm install redux react-redux`
+#### `npm install redux react-redux`
 
 ## Installation Guide
 
 In the project directory, you can run:
 
-### `npm start`
+#### `npm start`
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -19,7 +19,7 @@ The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
 ## Screen Shot
-Demonstrated by [redux-devtools-extention[(https://github.com/zalmoxisus/redux-devtools-extension)
+Demonstrated by [redux-devtools-extention](https://github.com/zalmoxisus/redux-devtools-extension)
 
 ###### Initial state of 2 reducers
 ![image](https://github.com/ckyyyy/react-redux-example/blob/master/image/init_state.png)
